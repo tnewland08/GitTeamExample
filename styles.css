@@ -7,19 +7,13 @@ body {
     -o-background-size: cover;
 }
 
-
-.Todd {
+.Kyle {
     color: white;
-    padding-top: 20px;
 }
 
-#toddImage img{
+#kyleImage img {
     height: 200px;
-    width: 300px;
-}
-
-.toddList img {
-    height: 45px;
-    width: 50px;
-    border-radius: 50%;
+    width: 200px;
+    border-radius: 5%;
+    box-shadow: 5px 5px 7px rgb(49, 0, 49);
 }
